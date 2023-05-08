@@ -1,4 +1,4 @@
-# studycircle
+# studycircle[InProgress]
 
 Welcome to StudyCircle, an app that connects university students with study groups and verified tutors for personalized academic support.   
 Whether you need help with a tough assignment or want to study with like-minded peers, Study Circle has you covered.
